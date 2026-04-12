@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """ResulShafili list function"""
 from typing import List
-import math
 
 
 def sum_list(input_list: List[float]) -> float:
     """this function sums all variables of list"""
-    return Sum(input_list)
+    return sum(input_list)
