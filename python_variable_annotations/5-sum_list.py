@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """ResulShafili list function"""
 from typing import List
+import math
 
 
 def sum_list(input_list: List[float]) -> float:
